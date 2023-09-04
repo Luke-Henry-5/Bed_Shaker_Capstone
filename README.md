@@ -1,5 +1,4 @@
 # Bed-Shaker-Swe415
-Test Test test
 
 
 ## Getting started
